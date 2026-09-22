@@ -3,8 +3,8 @@
 Estudante de Ciência da Computação (5º semestre). Me interesso por diversas áreas da computação e busco agora me desenvolver o **máximo possível**. Aberto a oportunidades.
 
 ## 🚀 Agora
-- Começando 5° semestre do curso.
-- Iniciando em iniciação científica.
+- Cursando o 6° semestre.
+- Iniciação Ciêntífica em Engenharia de Software e Requisitos.
 - Aberto a colaboração em IA e projetos em cloud.
 
 ## 🧰 Tecnologias
